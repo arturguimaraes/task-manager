@@ -4,3 +4,4 @@
 
 <p>Task manager for time managing control. You can create tasks and choose their time, and set them to start counting down the time to study, work, etc.</p>
 <p>Build with ReactJS, Typescript and Scss modules.</p>
+<p>To run it, download the "build" folder and open the "index.html" file.</p>
