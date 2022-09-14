@@ -1,6 +1,6 @@
 # Task Manager
 
-![Meetups](https://github.com/arturguimaraes/task-manager/blob/master/src/assets/img/task-manager.PNG?raw=true)
+![Meetups](https://github.com/arturguimaraes/task-manager/blob/main/src/assets/img/task-manager.PNG?raw=true)
 
 ## Live Application
 
